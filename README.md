@@ -22,7 +22,7 @@ Sou Michael Oliveira, sou Programador Front-end, atualmente estou criando projet
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/michael-de-oliveira-raimundo-8259a41a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="in/michael-de-oliveira-raimundo-8259a41a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/michael.oliveira.75641" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
